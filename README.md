@@ -43,6 +43,10 @@ Build JAR file
 -------------
 - Init modules by `git submodule update --init`
 - Compile by `mvn clean package`
+Nukkit Servers
+-------------
+We have a test server powered by Nukkit.
+fcmcpe.com 23191 or 11111.
 
 Running
 -------------
